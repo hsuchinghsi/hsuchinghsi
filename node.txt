@@ -1,1 +1,1 @@
-trojan://b8770fa0@clear.towhat.xyz：443#towhat
+trojan://b8770fa0@clear.towhat.xyz:443#towhat
